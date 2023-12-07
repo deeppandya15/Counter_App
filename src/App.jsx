@@ -19,7 +19,7 @@ function App() {
     <>
       <div>
         <h1>Counter</h1>
-        <h1>Counter Value is {count}</h1>
+        <h1>Counter Value :- {count}</h1>
 
         <button onClick={incrementCount}>Increment value</button>
         <button onClick={decrementCount}>Decrement value</button>
